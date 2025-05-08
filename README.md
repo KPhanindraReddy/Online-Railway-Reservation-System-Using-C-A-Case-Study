@@ -58,7 +58,7 @@ bash
 Copy
 Edit
 # Clone this repository
-git clone https://github.com/yourusername/Online-Railway-Reservation-System.git
+git clone https://github.com/KPhanindraReddy/Online-Railway-Reservation-System.git
 
 # Navigate to the project directory
 cd Online-Railway-Reservation-System
