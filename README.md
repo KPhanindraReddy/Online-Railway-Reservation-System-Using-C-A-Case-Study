@@ -2,6 +2,7 @@
 An interactive terminal-based project that simulates an online railway ticket booking system developed in the C programming language. This system enables users to check train availability, reserve tickets, cancel bookings, and manage schedules efficiently through a command-line interface.
 
 📌 Table of Contents
+
 🎯 Project Objectives
 
 🔧 Features
