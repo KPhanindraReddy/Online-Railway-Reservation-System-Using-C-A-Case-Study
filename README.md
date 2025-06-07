@@ -36,8 +36,11 @@ Provide a user-friendly and menu-driven command-line interface.
 ✅ Reserve tickets and display confirmation
 
 ✅ Cancel tickets with proper validation
+
 ✅ Display PNR (Passenger Name Record) details
+
 ✅ Secure admin authentication (basic)
+
 ✅ Modular and maintainable codebase
 
 
@@ -87,7 +90,10 @@ Edit
 ├── cancellation.c         # Ticket cancellation logic
 ├── data/                  # Stores train and ticket data files
 ├── README.md              # Project documentation
+
+
 📈 Future Enhancements
+
 ✅ Improve data security (encrypt credentials)
 
 ✅ Add GUI (Tkinter, Qt, or CLI GUI like ncurses)
