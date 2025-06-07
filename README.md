@@ -28,9 +28,13 @@ Provide a user-friendly and menu-driven command-line interface.
 
 🔧 Features
 ✅ User-friendly text-based UI
+
 ✅ Admin and User modes
+
 ✅ View train schedule and availability
+
 ✅ Reserve tickets and display confirmation
+
 ✅ Cancel tickets with proper validation
 ✅ Display PNR (Passenger Name Record) details
 ✅ Secure admin authentication (basic)
