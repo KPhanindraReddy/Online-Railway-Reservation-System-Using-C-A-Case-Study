@@ -35,6 +35,7 @@ Provide a user-friendly and menu-driven command-line interface.
 ✅ Secure admin authentication (basic)
 ✅ Modular and maintainable codebase
 
+
 🛠️ Technology Stack
 Language: C
 
